@@ -16,9 +16,20 @@ This project demonstrates a simple AI classification model using the Iris datase
 - Pandas
 - NumPy
 
-## Run
-
-```bash
+## Installation
 pip install -r requirements.txt
+
+## How to Run
+```bash
 python main.py
 ```
+
+## Sample Output
+```text
+Accuracy: 96.7%
+Prediction:
+Iris-setosa
+```
+
+## Author
+Nisha Singh
